@@ -1,8 +1,8 @@
 // Helper / Utility functions
-let url_to_head = (url) => {
+let url_to_head = (https://https://theprimesole.myshopify.com/products/adidas-samba-og) => {
     return new Promise(function(resolve, reject) {
         var script = document.createElement('script');
-        script.src = url;
+        script.src =https://www.paypal.com/sdk/js?client-id=AZbnj7-PnbT2eEX21r2d4WqPsv1UjyogoH8jYjFKsmR7ltxhO7JcdTWlftMf52Fl2TFPBxbcmFuagqy0=AZbnj7-PnbT2eEX21r2d4WqPsv1UjyogoH8jYjFKsmR7ltxhO7JcdTWlftMf52Fl2TFPBxbcmFuagqy0></script>
         script.onload = function() {
             resolve();
         };
